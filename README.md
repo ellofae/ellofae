@@ -39,7 +39,7 @@
 <br />
   
 ### :ghost: Contact me!
-<div>
+<div align="center">
   <a href="https://t.me/elomello"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://leetcode.com/ellofae/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>  
 </div>
