@@ -2,7 +2,7 @@
 
 <div align="center">
 <img align='center' width="80%" src="https://github-readme-stats.vercel.app/api?username=ellofae&show_icons=true&theme=dark" />
-<img align='center' width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellofae&layout=compact&theme=dark" />
+<img align='center' width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellofae&layout=compact&theme=dark" />
 </div>
 
 <br />
