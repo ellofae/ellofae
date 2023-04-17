@@ -1,9 +1,27 @@
 ## Hi, I'm Sergei Bykovskiy 👋
 
-<div align="center">
-<img align='center' width="80%" src="https://github-readme-stats.vercel.app/api?username=ellofae&show_icons=true&theme=dark" />
-<img align='center' width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellofae&layout=compact&theme=dark" />
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Ellofae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellofae&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ellofae&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellofae&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellofae&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<!--  End Stats Cards -->
+
+
+
 
 <br />
 <div align="left">
@@ -20,8 +38,8 @@
   
 <br />
   
-### Contact me!
+### :ghost: Contact me!
 <div>
   <a href="https://t.me/elomello"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://leetcode.com/ellofae/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>  
- </div>
+</div>
